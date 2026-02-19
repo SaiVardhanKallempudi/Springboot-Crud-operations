@@ -425,13 +425,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sai Vardhan Kallempudi**
 - GitHub: [@SaiVardhanKallempudi](https://github.com/SaiVardhanKallempudi)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Saivardhankallempudi](https://www.linkedin.com/in/sai-vardhan-kallempudi)
 
 ## 🙏 Acknowledgments
 
 - Spring Boot Documentation
 - Baeldung Spring Tutorials
 - Spring Data JPA Reference
+- Tutorials from youtube
 
 ## 📞 Support
 
